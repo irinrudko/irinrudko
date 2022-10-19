@@ -5,8 +5,8 @@ Also, having an experience of communicating with people of different age groups 
 
 ### Skills: ###
 #### `JavaScript TypeScript Redux React React-redux  Redux-thunk formik REST API axios`
-#### `React-hooks React-Class-Components jest-unit-tests material-UI`
-#### `FLUX pattern Model–view–presenter pattern git Jira Figma HTML5 CSS3 SCSS`
+#### `React-hooks React-Class-Components, jest-unit-tests material-UI`
+#### `FLUX pattern, Model–view–presenter pattern, git Jira Figma HTML5 CSS3 SCSS`
 
 ### Languages: ###
  • English – C1+ <br>
