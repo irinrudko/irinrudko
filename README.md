@@ -1,6 +1,6 @@
 ### Hey there! I'm Iryna Rudzko.
 
-I'm a former teacher of English and now I'm a Front-end  developer. I have proficient English level (both oral and written), good listening skills and self-control.
+I'm a former teacher of English and now I'm a Front-end  developer. I have a proficient English level (both oral and written), good listening skills and self-control.
 Also, having an experience of communicating with people of different age groups and backgrounds, I believe I can be a valuable asset to your team.
 
 ### Skills: ###
