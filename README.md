@@ -32,7 +32,7 @@ Link: <a href="https://bit.ly/rudzko-cv">Check it out</a>
 ### 🗣️ Languages:
  • English – C1+ <br>
  • Polish – A2+ <br>
- • Russian – native <br>
+ • Belarussian, Russian – native <br>
 
 ### 🌐 Soft skills: 
  • Collaboration & Teamwork <br>
