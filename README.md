@@ -2,7 +2,7 @@
 
 My name is Iryna Rudzko. I am a former teacher of English and now I am a Frontend  developer in Warsaw, Poland. <br/>
 I have a proficient English level (both oral and written), good listening skills and self-control. <br/>
-Also, I am experienced in communicating with people of different age groups and backgrounds. I believe I can be a valuable asset to your team.
+Also, I am experienced in communicating with people of different age groups and backgrounds. 
 
 ### 💼 Portfolio:
 
