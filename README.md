@@ -21,12 +21,12 @@ Link: <a href="https://bit.ly/rudzko-cv">Check it out</a>
 <a href="https://irinrudko.github.io/todolist/">demo</a>  
 <a href="https://github.com/irinrudko/todolist">repository</a> 
 
+#### Inctagram (Next.js – in progress)
+<a href="https://inctagram.net/auth/login">demo</a>  
+<a href="https://github.com/FightersForJustice/inctagram">repository</a> 
+
 #### Task manager (ReactNative – in progress)
 <a href="https://github.com/irinrudko/expo-project">repository</a> 
-
-#### Social network (React Class components – in progress)
-<a href="https://irinrudko.github.io/hogwarts">demo</a>  
-<a href="https://github.com/irinrudko/hogwarts">repository</a>   
 
 
 ### 🗣️ Languages:
