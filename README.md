@@ -44,6 +44,6 @@ Link: <a href="https://bit.ly/rudzko-cv">Check it out</a>
  • Positive attitude <br>
  
  ### 📞 Feel free to contact me: 
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irinrudko/)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudzko/)
 [<img src="https://img.shields.io/badge/Telegram-1572B6?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/irinrudko)
 [<img src='https://img.shields.io/badge/Gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:irinrudko@gmail.com)
